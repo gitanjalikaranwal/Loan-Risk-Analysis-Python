@@ -40,6 +40,9 @@ Analyzed:
 - Loan Amount distribution
 - Property Area approval trends
 
+<img width="768" height="557" alt="Approval Count" src="https://github.com/user-attachments/assets/5a9fdbe6-a926-4aff-b944-b603f36491a3" />
+
+
 ### 3. Model Building
 Implemented:
 - Logistic Regression
