@@ -42,6 +42,11 @@ Analyzed:
 
 <img width="768" height="557" alt="Approval Count" src="https://github.com/user-attachments/assets/5a9fdbe6-a926-4aff-b944-b603f36491a3" />
 
+<img width="796" height="562" alt="Credit History" src="https://github.com/user-attachments/assets/e02f226d-a09a-44e8-8ab6-6b6810b195b3" />
+
+<img width="795" height="558" alt="Income vs Approval" src="https://github.com/user-attachments/assets/3b3623c5-7ddc-416e-b270-1de7b89cc4a4" />
+
+<img width="748" height="562" alt="Property Area" src="https://github.com/user-attachments/assets/af50222c-c235-4bec-9eca-63d312867212" />
 
 ### 3. Model Building
 Implemented:
